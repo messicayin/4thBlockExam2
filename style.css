@@ -1,8 +1,28 @@
 h1 {
-    color:purple;
+    color:darkred;
+    font-size:48px;
+    text-align:center;
+}
+
+body {
+    background-color:lightsteelblue;
+    color:maroon;
+}
+
+a{
+    color:crimson;
 }
 
 table, th {
     border:1px;
     border-style:solid;
+}
+
+.small-image {
+    height:300px;
+}
+
+.large-image {
+    height:500px;
+    :center;
 }
