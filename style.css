@@ -1,16 +1,16 @@
 h1{
-    color:darkred;
+    color:rgb(59, 102, 218);
     font-size:48px;
     text-align:center;
 }
 
 body{
     background-color:lightsteelblue;
-    color:maroon;
+    color:midnightblue;
 }
 
 a{
-    color:crimson;
+    color:rgb(64, 173, 111);
 }
 
 table, th{
